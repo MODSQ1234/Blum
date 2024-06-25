@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 11111111
-API_HASH = 'Your api hash'
+API_ID = 27940595
+API_HASH = '89a1fa73f8cc1e1002044e1e4e2b7b65'
 
 # задержка между подключениями к аккаунтам
 ACC_DELAY = [5, 15]
@@ -12,7 +12,7 @@ PROXY_TYPE = "socks5" # http/socks5
 WORKDIR = "sessions/"
 
 # использование прокси
-USE_PROXY = True # True/False
+USE_PROXY = False # True/False
 
 # скок поинтов с игры
 POINTS = [100, 140] #[min, max]
